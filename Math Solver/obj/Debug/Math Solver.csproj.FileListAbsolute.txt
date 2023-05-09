@@ -1,0 +1,11 @@
+C:\Users\NDULUE\RiderProjects\Math Solver\Math Solver\bin\Debug\Math_Solver.exe.config
+C:\Users\NDULUE\RiderProjects\Math Solver\Math Solver\bin\Debug\Math_Solver.exe
+C:\Users\NDULUE\RiderProjects\Math Solver\Math Solver\bin\Debug\Math_Solver.pdb
+C:\Users\NDULUE\RiderProjects\Math Solver\Math Solver\obj\Debug\Math Solver.csproj.AssemblyReference.cache
+C:\Users\NDULUE\RiderProjects\Math Solver\Math Solver\obj\Debug\Math_Solver.Properties.Resources.resources
+C:\Users\NDULUE\RiderProjects\Math Solver\Math Solver\obj\Debug\Math Solver.csproj.GenerateResource.cache
+C:\Users\NDULUE\RiderProjects\Math Solver\Math Solver\obj\Debug\Math Solver.csproj.CoreCompileInputs.cache
+C:\Users\NDULUE\RiderProjects\Math Solver\Math Solver\obj\Debug\Math_Solver.exe
+C:\Users\NDULUE\RiderProjects\Math Solver\Math Solver\obj\Debug\Math_Solver.pdb
+C:\Users\NDULUE\RiderProjects\Math Solver\Math Solver\obj\Debug\Math_Solver.Form1.resources
+C:\Users\NDULUE\RiderProjects\Math Solver\Math Solver\obj\Debug\Math Solver.csproj.SuggestedBindingRedirects.cache
